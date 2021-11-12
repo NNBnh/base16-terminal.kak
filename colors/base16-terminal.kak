@@ -30,7 +30,7 @@ face global StatusCursor        PrimaryCursor
 # Other
 face global Error               black,red+fg
 face global MatchingChar        default,black
-face global BufferPadding       black,black
+face global BufferPadding       default
 face global Whitespace          black+f
 face global WrapMarker          Whitespace
 
